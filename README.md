@@ -4,3 +4,5 @@ A [Bootstrap 4](https://getbootstrap.com/) approximation of my custom responsive
 
 - Re-sizing and hiding of header image is handled by a custom stylesheet
 - Everything else is Bootstrap 4
+
+Images sourced from [Unsplash](https://unsplash.com/)
